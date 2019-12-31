@@ -1,4 +1,7 @@
 language: python
+arch:
+  - amd64
+  - arm64
 python:
   - "nightly"
   - 3.8
